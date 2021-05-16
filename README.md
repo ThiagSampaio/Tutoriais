@@ -11,7 +11,6 @@ Tabela de conteúdos
       * Funções Resumo e Maps
       * Agrupar e Ordenar
       * Tipos de Dados e Valores Vazios
-      * Renomear e Combinar
       
    * 2- Limpeza de Dados
       * Lidando com Dados Perdidos
