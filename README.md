@@ -14,7 +14,7 @@ Tabela de conteúdos
       
    * 2- Limpeza de Dados
       * Lidando com Dados Perdidos
-      * Dimensionando e Normalizando
+      * Scaling e Normalization
       * Analisando Datas
       * Codificação de Caracteres
       * Inconsistencia de Dados de Entrada      
